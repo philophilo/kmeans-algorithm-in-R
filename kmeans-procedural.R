@@ -1,5 +1,4 @@
-setwd("E:/data/datasets/sample2 - kmeans/")
-fileName <- "../book-machine learning/chapter 8/dogs.csv"
+fileName <- "dogs.csv"
 seperator <- ","
 medianAndDeviation <- data.frame()
 #### setting the number of k-means clusters
